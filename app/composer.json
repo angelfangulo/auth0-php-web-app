@@ -13,7 +13,7 @@
     },
     "require-dev": {
         "nunomaduro/phpinsights": "^2.0",
-        "phpstan/phpstan": "^0.12",
+        "phpstan/phpstan": "^1.11",
         "phpstan/phpstan-strict-rules": "^0.12"
     },
     "config": {
